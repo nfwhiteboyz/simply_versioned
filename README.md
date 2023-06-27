@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
