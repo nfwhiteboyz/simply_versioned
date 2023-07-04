@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Fix cmake requirements for ARM64 (#8589)
