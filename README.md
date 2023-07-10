@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Expand Model method type hinting (#8279)
