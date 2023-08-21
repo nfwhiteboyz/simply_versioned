@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
