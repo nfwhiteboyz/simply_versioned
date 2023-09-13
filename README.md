@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
