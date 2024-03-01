@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
