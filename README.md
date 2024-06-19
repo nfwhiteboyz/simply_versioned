@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
