@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
