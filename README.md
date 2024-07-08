@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Fix OBB xywh-angle concatenation bug (#7404)
