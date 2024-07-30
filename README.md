@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)
