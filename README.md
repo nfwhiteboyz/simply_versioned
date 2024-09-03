@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Add dota8.yaml and O tests (#7394)
